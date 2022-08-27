@@ -18,7 +18,7 @@
   position: absolute;
   bottom: 0;
   width: 5rem;
-  animation: pipe-animation 0.5s infinite linear;
+  animation: pipe-animation 1s infinite linear;
 }
 .clouds{
   position: absolute;
