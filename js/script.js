@@ -29,3 +29,4 @@ const loop = setInterval(() => {
 }, 10)
 
 document.addEventListener('touchstart', jump)
+document.addEventListener('keydown', jump)
